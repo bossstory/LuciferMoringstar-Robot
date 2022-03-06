@@ -13,9 +13,11 @@ class LuciferMoringstar(object):
 
 📦 My Source : [Click Here](https://github.com/Roahitvijay/LuciferMoringstar-Robot)
 
-📺 My Telegram channel : [animepirateschannel](https://t.me/animepirateschannel)
+📺 My Anime channel : [Animepirateschannel](https://t.me/animepirateschannel)
 
-🎥 My Telegram movie channel :[animepirates movie channel] (https://t.me/Animepiratesmovies)
+🎥 My Anime movie channel : [Animepiratesmoviechannel](https://t.me/Animepiratesmovies)
+
+👥 My Anime group search : [Animepiratesgroup](https://t.me/animegroup99)
 
 🏷️ My Updates : [Animechannel90](https://t.me/Animechannel90)
 
