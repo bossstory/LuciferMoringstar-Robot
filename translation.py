@@ -15,6 +15,8 @@ class LuciferMoringstar(object):
 
 📺 My Telegram channel : [animepirateschannel](https://t.me/animepirateschannel)
 
+🎥 My Telegram movie channel :[animepirates movie channel] (https://t.me/Animepiratesmovies)
+
 🏷️ My Updates : [Animechannel90](https://t.me/Animechannel90)
 
 🗣️ My Support : [Any Doubt](t.me/R0ahit)"""
