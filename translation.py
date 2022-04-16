@@ -2,22 +2,26 @@ class LuciferMoringstar(object):
 
     DEFAULT_MSG = """👋Hello {mention}.....!!!\nIt's Power Full [{bot_name}](t.me/{bot_username}) Here 😎\nAdd Me To Your Group And Make Sure I'm an Admin There! \nAnd Enjoy My Pever Show.....!!!🤪"""
 
-    HELP_MSG = """**You can contact me @howtodoyt**"""
+    HELP_MSG = """**You can contact me @R0ahit**"""
 
     ABOUT_MSG = """
 🤖 My Name [{bot_name}](t.me/{bot_username})
 
-🧑 My Dev : [HOWTODO](t.me/howtodoyt)
+🧑 My Dev : [R0ahit](t.me/R0ahit)
 
 🧑 My Creator : {dev_name}
 
-📦 My Source : [Click Here](https://github.com/bossstory/LuciferMoringstar-Robot)
+📦 My Source : [Click Here](https://github.com/Roahitvijay/LuciferMoringstar-Robot)
 
-📺 My Youtube : [Ckick Here](https://www.youtube.com/channel/UCohk_mpuW8SpgZMyOzRdKcA)
+📺 My Anime channel : [Animepirateschannel](https://t.me/animepirateschannel)
 
-🏷️ My Updates : [HOW TO DO](t.me/HTDGROUPFORMOVIES)
+🎥 My Anime movie channel : [Animepiratesmoviechannel](https://t.me/Animepiratesmovies)
 
-🗣️ My Support : [Any Doubt](t.me/howtodoyt)"""
+👥 My Anime group search : [Animepiratesgroup](https://t.me/animegroup99)
+
+🏷️ My Updates : [Animechannel90](https://t.me/Animechannel90)
+
+🗣️ My Support : [Any Doubt](t.me/R0ahit)"""
 
     FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
 
